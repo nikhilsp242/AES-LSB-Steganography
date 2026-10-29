@@ -1,0 +1,11 @@
+opencv-python
+numpy
+matplotlib
+Pillow
+scikit-image
+pycryptodome
+cryptography
+jupyterlab
+ipykernel
+pandas 
+openpyxl
