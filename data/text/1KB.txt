@@ -1,0 +1,7 @@
+jmage steganography is the process of concealing secret information inside a digital image while preserving its visual appearance. Unlike cryptography, which hides the content of a message, steganography hides the existence of the message itself. A successful steganographic system should provide imperceptibility, security, robustness, and sufficient embedding capacity.
+
+The Advanced Encryption Standard (AES) is a symmetric block cipher widely used to secure confidential information. AES supports key sizes of 128, 192, and 256 bits. It performs multiple rounds of substitution, permutation, and mixing operations to transform plaintext into ciphertext while resisting known cryptographic attacks.
+
+Least Significant Bit substitution is one of the most popular spatial domain image steganography techniques because of its simplicity and high embedding capacity. Secret bits are embedded by modifying only the least significant bits of pixel values, resulting in minimal perceptual distortion.
+
+Peak Signal-to-Noise Ratio

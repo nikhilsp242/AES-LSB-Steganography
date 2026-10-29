@@ -1,0 +1,1 @@
+jmage steganography is the process of concealing secret information inside a digital image while preserving its visual appearance. Unlike cryptography, which hides the content of a message, steganography hides the existence of the message itself. A s

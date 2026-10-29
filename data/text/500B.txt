@@ -1,0 +1,3 @@
+jmage steganography is the process of concealing secret information inside a digital image while preserving its visual appearance. Unlike cryptography, which hides the content of a message, steganography hides the existence of the message itself. A successful steganographic system should provide imperceptibility, security, robustness, and sufficient embedding capacity.
+
+The Advanced Encryption Standard (AES) is a symmetric block cipher widely used to secure confidential information. AES supports

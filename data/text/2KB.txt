@@ -1,0 +1,13 @@
+jmage steganography is the process of concealing secret information inside a digital image while preserving its visual appearance. Unlike cryptography, which hides the content of a message, steganography hides the existence of the message itself. A successful steganographic system should provide imperceptibility, security, robustness, and sufficient embedding capacity.
+
+The Advanced Encryption Standard (AES) is a symmetric block cipher widely used to secure confidential information. AES supports key sizes of 128, 192, and 256 bits. It performs multiple rounds of substitution, permutation, and mixing operations to transform plaintext into ciphertext while resisting known cryptographic attacks.
+
+Least Significant Bit substitution is one of the most popular spatial domain image steganography techniques because of its simplicity and high embedding capacity. Secret bits are embedded by modifying only the least significant bits of pixel values, resulting in minimal perceptual distortion.
+
+Peak Signal-to-Noise Ratio (PSNR) is commonly used to evaluate image quality after data embedding. Higher PSNR values indicate lower distortion between the original cover image and the generated stego image. In practical image steganography systems, PSNR values above 40 dB generally indicate excellent visual quality.
+
+Mean Squared Error (MSE) measures the average squared difference between corresponding pixels of the cover image and the stego image. Lower MSE values correspond to smaller embedding distortion and usually lead to higher PSNR values.
+
+Entropy measures the randomness of an image. A stego image with entropy similar to that of the original image indicates that the embedding process has preserved the statistical characteristics of the cover image, reducing the likelihood of successful steganalysis.
+
+Network security relies on multiple layers of protection including encryption, authentication, integrity verification, intrusion detection, and access control. Combining cryptographic techniques with information hiding methods pr

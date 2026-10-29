@@ -1,0 +1,11 @@
+# Local Python environment and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated stego images (large experiment outputs)
+results/stego/
+results/modified_stego/
+
+dynamic8bitXOR_algorithm_with_AES_for_image_steganography.pdf
